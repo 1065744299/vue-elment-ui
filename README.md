@@ -52,5 +52,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 如有问题请留言。或者加QQ1065744299。
 
 如果对你有帮助，可以请作者喝杯咖啡:
-<img src="https://img-blog.csdnimg.cn/20190624155516663.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>
-<img src="https://img-blog.csdnimg.cn/20190624171430138.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>
+<img src="https://img-blog.csdnimg.cn/20190624175911884.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>
+
+<img src="https://img-blog.csdnimg.cn/20190624175942709.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>

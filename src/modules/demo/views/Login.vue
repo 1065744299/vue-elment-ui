@@ -15,16 +15,17 @@
         <div class="login-div">
           <h3>登录</h3>
           <el-form :model="login" :rules="rules" ref="ruleForm" label-width="100px" class="demo-ruleForm">
-            <el-form-item label="用户名称" prop="name">
+            <el-form-item label="用户名称" prop="name" placeholder="随便写">
               <el-input v-model="login.name" ></el-input>
             </el-form-item>
-            <el-form-item label="登录密码" prop="pwd">
+            <el-form-item label="登录密码" prop="pwd" placeholder="随便写">
               <el-input v-model="login.pwd"></el-input>
             </el-form-item>
             <el-form-item>
               <el-button type="success" @click="updateUser('ruleForm')">模拟登录</el-button>
               <el-button @click="resetForm('ruleForm')">重置</el-button>
             </el-form-item>
+            账号密码随便写
           </el-form>
         </div>
       </el-col>
