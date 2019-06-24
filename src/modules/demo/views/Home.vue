@@ -22,6 +22,14 @@
         npm run build-prod demo 指定环境和项目打包
       </div>
     </el-col>
+    <el-col :span="24" class="disc">
+      <h3>如果对你有帮助可以请作者喝杯咖啡</h3>
+      <div>
+        <img src="https://img-blog.csdnimg.cn/20190624155516663.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>
+        &nbsp;&nbsp;
+        <img src="https://img-blog.csdnimg.cn/20190624171430138.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1NDUxMTk5,size_16,color_FFFFFF,t_70" width="150px"/>
+      </div>
+    </el-col>
   </el-row>
 </template>
 
